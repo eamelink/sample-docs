@@ -4,6 +4,7 @@ metadata:
   name: sample-docs
   annotations:
     github.com/project-slug: eamelink/sample-docs
+    backstage.io/techdocs-ref: docs 
 spec:
   type: other
   lifecycle: unknown
