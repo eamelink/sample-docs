@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-docs
+  annotations:
+    github.com/project-slug: eamelink/sample-docs
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
